@@ -1,4 +1,4 @@
-# Document-Manager-GUI
+# Document Manager GUI
 
 ### The following program is a GUI written in Python with Tkinter.
 
